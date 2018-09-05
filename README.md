@@ -1,2 +1,2 @@
 # IndoorNaviApp
-Sample Indoor navigation and positioning Android app 
+Sample Indoor navigation and positioning Android app test
